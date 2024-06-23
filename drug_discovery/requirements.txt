@@ -2,3 +2,4 @@ h5py
 py3Dmol
 openmm
 mdtraj
+periodictable
